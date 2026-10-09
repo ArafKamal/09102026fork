@@ -41,6 +41,7 @@ int main(void) {
     di stampare un messaggio finale e chiudersi.
     */
 
+    /*
     for (int i = 0; i < 3; i++) {
         pid_t pid = fork();
 
@@ -60,6 +61,9 @@ int main(void) {
     }
 
     printf("[PADRE] Tutti figli eliminati");
+    */
+
+
 
     return 0;
 }
